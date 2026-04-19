@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm a beginner developer on a journey to learn and grow in tech!
-🌱 About Me
+## 🌱 About Me
 I'm just starting my coding adventure and excited to learn new skills every day. I'm passionate about building projects and contributing to the community as I grow.
 
 
