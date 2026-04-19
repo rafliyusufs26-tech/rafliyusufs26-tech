@@ -2,7 +2,11 @@
 I'm a beginner developer on a journey to learn and grow in tech!
 ## 🌱 About Me
 I'm just starting my coding adventure and excited to learn new skills every day. I'm passionate about building projects and contributing to the community as I grow.
-
+## 🎯 Currently Learning
+- Python Developer: Python
+- Version Control: Git & GitHub
+- Problem Solving: Coding challenges and algorithms
+- Best Practices: Writing clean, readable code
 
 <!--
 **rafliyusufs26-tech/rafliyusufs26-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
