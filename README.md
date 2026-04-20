@@ -1,5 +1,5 @@
 ## Hi there! 👋 
-#I'm Rafli Yusuf
+- I'm Rafli Yusuf
 
 Beginner Python developer passionate about coding, building projects, and solving problems!
 
