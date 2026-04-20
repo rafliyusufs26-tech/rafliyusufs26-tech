@@ -41,7 +41,7 @@ I'm learning Python from:
 - 📺 **YouTube tutorials** - for practical examples
 - 🎓 **FreeCodeCamp** - comprehensive Python courses
 - 📖 **Self-taught** - exploring Python docs and experimenting with code
-- 🤖 **AI** - ai is my teacher, they teach what i don't understand
+- 🤖 **AI** - learning with ai
 
 ## 🎯 My Goals
 
