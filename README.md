@@ -1,7 +1,7 @@
 ## Hi there! 👋 
 - I'm Rafli Yusuf
 
-Beginner Python developer passionate about coding, building projects, and solving problems!
+I'm a Beginner Python developer passionate about coding, building projects, and solving problems!
 
 ## 🌱 About Me
 
@@ -42,7 +42,6 @@ I'm learning Python from:
 - 📺 **YouTube tutorials** - for practical examples
 - 🎓 **FreeCodeCamp** - comprehensive Python courses
 - 📖 **Self-taught** - exploring Python docs and experimenting with code
-- 🤖 **AI** - learning with ai
 
 ## 🎯 My Goals
 
