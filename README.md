@@ -26,16 +26,6 @@ Currently focused on strengthening my Python fundamentals:
 - Self-learning and adaptability
 - Growing passion for programming!
 
-## 🎮 My Projects
-
-Check out the projects I've built while learning:
-
-- **[File Organizer](https://github.com/rafliyusufs26-tech/file-organizer)** - A Python project to organize and manage files
-- **[Rock Paper Scissor Game](https://github.com/rafliyusufs26-tech/Rock-Paper-Scissor-Game)** - A fun interactive game built with Python
-- **[Guess the Number](https://github.com/rafliyusufs26-tech/Guess-The-Number)** - A number guessing game to practice logic and conditionals
-
-*More projects coming soon!* 🚀
-
 ## 📚 Learning Resources
 
 I'm learning Python from:
