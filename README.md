@@ -1,16 +1,10 @@
-## Hi there! 👋 
-- I'm Rafli Yusuf
-
-I'm a Beginner Python developer passionate about coding, building projects, and solving problems!
+# 📄 Introduction
+Hello everyone, my name is Rafli Yusuf. I'm a Junior Python developer passionate about coding, building projects, and solving problems!
 
 ## 🌱 About Me
-
-I'm a beginner programmer learning Python and building my skills day by day. I love the challenge of coding and the satisfaction of creating solutions to real problems. My goal is to become a skilled programmer, land my first job in tech, and continue building amazing projects.
-
-> "Keep going" – and I'm excited to share my coding journey with you!
+I'm a junior programmer learning Python and building my skills day by day. I love the challenge of coding and the satisfaction of creating solutions to real problems. My goal is to become a skilled programmer, land my first job in tech, and continue building amazing projects.
 
 ## 🐍 What I'm Learning
-
 Currently focused on strengthening my Python fundamentals:
 
 - **Basic Syntax & Data Structures**: Variables, lists, dictionaries, tuples, sets
@@ -19,22 +13,12 @@ Currently focused on strengthening my Python fundamentals:
 - **Problem-Solving**: Building logic through small projects
 
 ## 💻 My Skills
-
-- Python (beginner level)
+- Python (entry level)
 - Basic problem-solving
-- Version control with Git & GitHub
 - Self-learning and adaptability
 - Growing passion for programming!
 
-## 📚 Learning Resources
-
-I'm learning Python from:
-- 📺 **YouTube tutorials** - for practical examples
-- 🎓 **FreeCodeCamp** - comprehensive Python courses
-- 📖 **Self-taught** - exploring Python docs and experimenting with code
-
 ## 🎯 My Goals
-
 1. ✅ Build a strong foundation in Python
 2. 🔨 Create more meaningful projects
 3. 💼 Land my first programming job
@@ -42,14 +26,12 @@ I'm learning Python from:
 5. 🤝 Contribute to the programming community
 
 ## 🚀 What Drives Me
-
 - 💡 **Love for Coding**: I genuinely enjoy solving problems through code
 - 🧠 **Problem-Solving**: Each challenge helps me grow and learn
 - 🎯 **Ambition**: Determined to build a career in programming
 - 🌟 **Authenticity**: I love being myself and bringing my unique perspective
 
 ## 🤝 Let's Connect!
-
 I'd love to connect with fellow developers, get feedback, and learn from the community!
 
 - 💼 **LinkedIn**: [muhammad-rafli-yusuf-susilo](https://linkedin.com/in/muhammad-rafli-yusuf-susilo-86229237a)
@@ -57,7 +39,6 @@ I'd love to connect with fellow developers, get feedback, and learn from the com
 - 🐙 **GitHub**: [rafliyusufs26-techFirst](https://github.com/rafliyusufs26-techFirst)
 
 ---
-
 **Thanks for visiting my profile!** Feel free to explore my projects, and don't hesitate to reach out. Let's grow together as developers! 🐍✨
 
 
