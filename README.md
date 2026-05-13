@@ -1,5 +1,5 @@
 # 📄 Introduction
-Hello everyone, my name is Rafli Yusuf. I'm a Junior Python developer passionate about coding, building projects, and solving problems!
+Hello everyone, my name is Rafli Yusuf. I have passionate about coding, building projects, and solving problems!
 
 ## 🌱 About Me
 I'm a junior programmer learning Python and building my skills day by day. I love the challenge of coding and the satisfaction of creating solutions to real problems. My goal is to become a skilled programmer, land my first job in tech, and continue building amazing projects.
